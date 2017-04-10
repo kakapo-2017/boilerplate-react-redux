@@ -25,4 +25,3 @@ const provideCorrectProps = connect(mapStateToProps)
 const connectedWords = provideCorrectProps(Words)
 
 export default connectedWords
-
